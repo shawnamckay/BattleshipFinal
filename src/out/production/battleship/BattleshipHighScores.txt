@@ -1,0 +1,14 @@
+ HIGH SCORES 
+-----------
+*hello*
+Guesses: 30
+-----------
+*hi*
+Guesses: 53
+-----------
+*eyqxjk*
+Guesses: 65
+-----------
+*Test*
+Guesses: 68
+-----------
